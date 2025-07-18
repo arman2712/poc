@@ -1,5 +1,8 @@
 # Getting Started
 
+### Prerequisites
+The postman collection is available in the resource folder of the project.
+
 ### Get the access token
 Login to get a JWT token:
 
